@@ -1,0 +1,11 @@
+{
+  "name": "paladiscount-bot",
+  "version": "0.0.1",
+  "description": "Joue a Fortnite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Yaniis__",
+  "license": "ISC"
+}
